@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ####
 ### Prerequisites
 - JDK 1.8 or later
@@ -23,3 +24,6 @@ Then look for the file :
 - > mysql -u <user_name> -p accounts < accountsdb.sql
 
 
+=======
+# ci_project
+>>>>>>> 67a72f1526b1bc412be34d1ebf49c9116060c011
