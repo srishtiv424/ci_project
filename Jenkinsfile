@@ -14,6 +14,8 @@ pipeline{
         NEXUSPORT = '8081'
         NEXUS_GRP_REPO = 'maven-group'
         NEXUS_LOGIN = 'nexuslogin'
+        SONARSERVER = 'sonarserver'
+        SONARSCANNER = 'sonarscanner'
     }
     stages {
         stage('Build with maven'){
